@@ -1331,7 +1331,7 @@ def forced_replace(out, x, y):
 
     Note
     ----
-    When it find a match, it don't continue on the corresponding inputs.
+    When it finds a match, it doesn't continue on the corresponding inputs.
     """
     if out is None:
         return None
